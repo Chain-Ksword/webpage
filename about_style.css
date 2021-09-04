@@ -14,7 +14,7 @@ html {
 }
 
 body::before {
-  background: url(image.jpeg) no-repeat center center fixed;
+  background: url(./assets/image.jpeg) no-repeat center center fixed;
   content: '';
   z-index: -1;
   width: 100%;
